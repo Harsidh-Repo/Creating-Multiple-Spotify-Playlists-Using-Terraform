@@ -1,6 +1,3 @@
-Certainly! Here's a GitHub README file based on the Notion article you provided:
-
----
 
 # Creating Multiple Spotify Playlists Using Terraform
 
